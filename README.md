@@ -2,7 +2,7 @@
 <h2 align="center">I'm Rafli ✨ Future Software Engineer</h2>
 
 <p align="center">
-  <img src="https://media.tenor.com/3XK5X5XxY3YAAAAi/hatsune-miku-anime.gif" width="250"/>
+  <img src="miku.gif" width="250"/>
 </p>
 
 ---
