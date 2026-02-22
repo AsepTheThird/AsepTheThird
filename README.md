@@ -3,22 +3,24 @@
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
 
   <!-- EMAIL -->
   <a href="mailto:rafliramadhan750@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-rafliramadhan750%20%5Bat%5D%20gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <!-- LINKEDIN -->
-  <a href="https://linkedin.com/in/linkedinusername">
+  <a href="https://linkedin.com/in/mohamad-rafli-ramadhan">
     <img src="https://img.shields.io/badge/LINKEDIN-Professional-0096C7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- INSTAGRAM -->
-  <a href="https://instagram.com/igusername">
+  <a href="https://instagram.com/asepthethird">
     <img src="https://img.shields.io/badge/INSTAGRAM-Daily%20Life-00CED1?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
