@@ -7,38 +7,39 @@
 
 ---
 
-## 🎤 About Me
+<p align="center">
+  ✨ I'm Rafli | Future Software Engineer ✨  
+  🎮 Godot Game Developer  
+  💻 Tech Enthusiast  
+</p>
 
-🌊 STI Student at Cakrawala University  
-🎮 Genshin Impact & Wuthering Waves Enjoyer  
-📚 Love reading & drawing  
-💪 Self improvement arc activated  
-💬 Motto: *"Lebih baik terlihat culon daripada menjadi cepu."*
 
 ---
 
 ## 💻 Tech Stage
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+---
 
-![HTML](https://img.shields.io/badge/HTML-00ffff?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-00e5ff?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-00bcd4?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00acc1?style=for-the-badge&logo=python&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-00ffff?style=for-the-badge&logo=godot-engine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-00ffff?style=for-the-badge&logo=godot-engine&logoColor=white)
+## 📊 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsepTheThird&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsepTheThird&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📊 Performance Stats
+## 🎮 My Game Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsepTheThird&show_icons=true&theme=tokyonight&title_color=00ffff&icon_color=00ffff&text_color=ffffff&bg_color=0d1117"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsepTheThird&theme=tokyonight&ring=00ffff&fire=00ffff&currStreakLabel=00ffff"/>
-</p>
+- 🚀 Game 1 - Coming Soon
+- 🌌 Game 2 - In Development
 
 ---
 
