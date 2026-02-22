@@ -2,7 +2,7 @@
 <p align="center"> 💙 “Every commit is a step toward my dream stage.” 🎤 </p>
 <h2 align="center">I'm Rafli ✨ Future Software Engineer</h2>
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 ---
 
 ## 🎆 Live Concert Metrics  
