@@ -2,7 +2,7 @@
 <h2 align="center">I'm Rafli ✨ Future Software Engineer</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="250"/>
+  <img src="https://media.tenor.com/3XK5X5XxY3YAAAAi/hatsune-miku-anime.gif" width="250"/>
 </p>
 
 ---
@@ -25,6 +25,8 @@
 ![CSS](https://img.shields.io/badge/CSS-00e5ff?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-00bcd4?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00acc1?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-00ffff?style=for-the-badge&logo=godot-engine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-00ffff?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 </p>
 
