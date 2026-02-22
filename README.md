@@ -1,4 +1,5 @@
 <h1 align="center">💙 Welcome to My Digital Stage 💙</h1>
+<p align="center"> 💙 “Every commit is a step toward my dream stage.” 🎤 </p>
 <h2 align="center">I'm Rafli ✨ Future Software Engineer</h2>
 
 ---
@@ -49,21 +50,27 @@
 </p>
 ---
 
-## 📊 My GitHub Stats
+## 🎆 Live Concert Metrics  
+
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AsepTheThird&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsepTheThird&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsepTheThird&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AsepTheThird&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AsepTheThird&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
 </p>
 
----
+<p align="center">
+  ✨ Lights On • Code Running • Crowd Cheering ✨
+</p>
+<p align="center">━━━━━━━━━━ 🎤 ━━━━━━━━━━</p>
 
 ## 🎮 My Game Projects
 
 - 🚀 Game 1 - Coming Soon
 - 🌌 Game 2 - In Development
+- 🎯 More Projects Loading...
 
 ---
 
