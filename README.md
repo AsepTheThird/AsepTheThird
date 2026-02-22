@@ -1,6 +1,29 @@
 <h1 align="center">💙 Welcome to My Digital Stage 💙</h1>
 <h2 align="center">I'm Rafli ✨ Future Software Engineer</h2>
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+  <!-- EMAIL -->
+  <a href="mailto:rafliramadhan750@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-rafliramadhan750%20%5Bat%5D%20gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- LINKEDIN -->
+  <a href="https://linkedin.com/in/linkedinusername">
+    <img src="https://img.shields.io/badge/LINKEDIN-Professional-0096C7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- INSTAGRAM -->
+  <a href="https://instagram.com/igusername">
+    <img src="https://img.shields.io/badge/INSTAGRAM-Daily%20Life-00CED1?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+</p>
+
 <p align="center">
   <img src="miku.gif" width="250">
 </p>
@@ -56,8 +79,3 @@
 <!--
 **AsepTheThird/AsepTheThird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on SuperApp Mobile 
-- 🌱 I’m currently learning Python and Godot
--->
