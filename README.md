@@ -2,7 +2,7 @@
 <h2 align="center">I'm Rafli ✨ Future Software Engineer</h2>
 
 <p align="center">
-  <img src="miku.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="250"/>
 </p>
 
 ---
