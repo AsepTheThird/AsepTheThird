@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7FE9FF&size=24&center=true&vCenter=true&width=600&lines=Hatsune+Miku+Inspired+Developer;Soft+Code+Soft+Heart;Building+Dreams+in+Pastel+Blue;Welcome+to+My+Ocean+Stage" />
+</p>
+
 <h1 align="center">💙 Welcome to My Digital Stage 💙</h1>
 <p align="center"> 💙 “Every commit is a step toward my dream stage.” 🎤 </p>
 <h2 align="center">I'm Rafli ✨ Future Software Engineer</h2>
