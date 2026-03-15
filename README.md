@@ -71,8 +71,8 @@
 
 ## 🎮 My Game Projects
 
-- 🚀 Game 1 - Coming Soon
-- 🌌 Game 2 - In Development
+- 🚀 Game 1 - In Development
+- 🌌 Game 2 - Coming Soon
 - 🎯 More Projects Loading...
 
 ---
