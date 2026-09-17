@@ -55,15 +55,11 @@
 
 ## 🎆 Live Concert Metrics  
 
-<!-- Grafik Aktivitas Contribution -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsepTheThird&theme=tokyo-night&hide_border=true&bg_color=00000000&v=100" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AsepTheThird&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&v=100" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsepTheThird&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&v=100" height="160"/>
 </p>
 
-<!-- Trophy Pencapaian GitHub -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsepTheThird&theme=tokyonight&no-bg=true&no-frame=true&column=6&v=100" />
-</p>
 <p align="center">
   ✨ Lights On • Code Running • Crowd Cheering ✨
 </p>
