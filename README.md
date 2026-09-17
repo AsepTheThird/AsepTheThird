@@ -57,14 +57,13 @@
 
 <!-- Grafik Aktivitas Contribution -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsepTheThird&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsepTheThird&theme=tokyo-night&hide_border=true&bg_color=00000000&v=100" width="100%"/>
 </p>
 
 <!-- Trophy Pencapaian GitHub -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsepTheThird&theme=tokyonight&no-bg=true&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AsepTheThird&theme=tokyonight&no-bg=true&no-frame=true&column=6&v=100" />
 </p>
-
 <p align="center">
   ✨ Lights On • Code Running • Crowd Cheering ✨
 </p>
